@@ -1,0 +1,16 @@
+.botao{
+    background-color: #E3BA5F;
+    border-radius: 7px;
+    font-weight: 700;
+    font-size: 17px;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+    margin: 16px 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.botao:hover{
+    color:#A38407;
+}

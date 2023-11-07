@@ -1,0 +1,20 @@
+.rodape{
+    background-color: #A975FF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rodape ul li{
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.rodape ul li:last-child{
+    margin-right: 0;
+}
+
+.rodape h3{
+    color: #FFFF;
+}

@@ -1,0 +1,19 @@
+.text-field  label{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #A975FF;
+    
+}
+
+.text-field input {
+    background-color: #FFF;
+    box-shadow: 10px 10px 16px rgba(137, 137, 138, 0.963);
+    width: 100%;
+    border:none;
+    font-size: 13px;
+    padding: 20px;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
