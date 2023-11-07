@@ -1,8 +1,11 @@
 .banner {
     background-color: hsl(263, 100%, 73%);
+    padding: 0px;
     text-align: center;
 }
 
-banner img {
-    max-width: 100%;
+.banner img {
+    max-width: 80%; /* Limita a largura máxima da imagem ao tamanho do contêiner (cabeçalho) */
+    height: 60%;
+    width: 100%;
 }
